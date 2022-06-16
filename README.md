@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/mostofarajon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostofarajon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/golam-mostofa-rajon-8906781b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golam-mostofa-rajon-8906781b1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17044732/mostofa-rajon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17044732/mostofa-rajon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17044732/mostofa-rajon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17044732/mostofa-rajon" height="30" width="40" /></a>
 <a href="https://fb.com/mostofa.rajon11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostofa.rajon11" height="30" width="40" /></a>
 <a href="https://instagram.com/g.m_rajon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.m_rajon/" height="30" width="40" /></a>
 </p>
