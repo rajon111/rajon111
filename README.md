@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)]
 <h1 align="center">Hi 👋, I'm Golam Mostofa Rajon</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 <img align="left" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
