@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ** Dashboard Management System **
 
-- 🌱 I’m currently learning **NODE-MONGOOSE-ONGODB-EXPRESS-WITH-TYPESCRIPT**
+- 🌱 I’m currently learning **NODE-MONGOOSE-MONGODB-EXPRESS-WITH-TYPESCRIPT**
 
 - 💬 Ask me about **MERN || MEAN || PROBLEM SOLVING **
 
