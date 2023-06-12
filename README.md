@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Dashboard Management System**
 
-- 🌱 I’m currently learning **Angular,SASS**
+- 🌱 I’m currently learning **NODE-MONGOOSE-ONGODB-EXPRESS-WITH-TYPESCRIPT**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN || MEAN || PROBLEM SOLVING **
 
 - 📫 How to reach me **mostofarajon111@gmail.com**
 
-- ⚡ Fun fact **I think I am unique!**
+- ⚡ Fun fact **I think I am STRING!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
