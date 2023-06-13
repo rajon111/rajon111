@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa Rajon</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<p><a href="https://github.com/rajon111/"><img src="https://profile-counter.glitch.me/{rajon111}/count.svg" alt="Rajon : Visitor's Count" /></a></p>
 <img align="left" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajon111&label=Profile%20views&color=0e75b6&style=flat" alt="rajon111" /> </p>
@@ -35,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajon111&show_icons=true&locale=en" alt="rajon111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajon111&" alt="rajon111" /></p>
-<p><a href="https://github.com/rajon111/"><img src="https://profile-counter.glitch.me/{rajon111}/count.svg" alt="Rajon : Visitor's Count" /></a></p>
+
