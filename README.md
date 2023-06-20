@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on ** Dashboard Management System **
 
-- 🌱 I’m currently learning **NODE-MONGOOSE-MONGODB-EXPRESS-WITH-TYPESCRIPT**
+- 🌱 I’m currently exploring **NODE-MONGOOSE-MongoDB-EXPRESS-WITH-TYPESCRIPT**
 
 - 💬 Ask me about **MERN || MEAN || PROBLEM SOLVING **
 
