@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa Rajon</h1>
-<h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN_dev || SQA from Bangladesh</h3>
 <p><a href="https://github.com/rajon111/"><img src="https://profile-counter.glitch.me/{rajon111}/count.svg" alt="Rajon : Visitor's Count" /></a></p>
 <img align="left" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/mostofarajon" target="blank"><img src="https://img.shields.io/twitter/follow/mostofarajon?logo=twitter&style=for-the-badge" alt="mostofarajon" /></a> </p>
 
-- 🔭 I’m currently working on ** Dashboard Management System **
+- 🔭 I’m currently working on ** SQA **
 
-- 🌱 I’m currently exploring **NODE-MONGOOSE-MongoDB-EXPRESS-WITH-TYPESCRIPT**
+- 🌱 I’m currently exploring **MENUAL_TESTING,API_TESTING,PERFORMANCE_TESTING**
 
-- 💬 Ask me about **MERN || MEAN || PROBLEM SOLVING **
+- 💬 Ask me about **SQA || MERN || MEAN || PROBLEM SOLVING **
 
 - 📫 How to reach me **mostofarajon111@gmail.com**
 
