@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa Rajon</h1>
-<h3 align="center">A passionate MERN_dev || SQA from Bangladesh</h3>
+<h3 align="center">A passionate MERN_DEV || SQA Eng. from Bangladesh</h3>
 <p><a href="https://github.com/rajon111/"><img src="https://profile-counter.glitch.me/{rajon111}/count.svg" alt="Rajon : Visitor's Count" /></a></p>
 <img align="left" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
